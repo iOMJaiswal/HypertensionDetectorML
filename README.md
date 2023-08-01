@@ -52,7 +52,7 @@ git clone https://github.com/iOMJaiswal/HypertensionDetectorML.git
 2. Change into the project directory:
 
 ```bash
-cd SmartHomeForElderPeople
+cd HypertensionDetectorML
 ```
 
 3. Install dependencies:
